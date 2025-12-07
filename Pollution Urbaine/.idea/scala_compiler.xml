@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="Pollution Urbaine,Pollution Urbaine.main,Pollution Urbaine.test,Pollution_Urbaine,Pollution_Urbaine.main,Pollution_Urbaine.test" />
+  </component>
+</project>
